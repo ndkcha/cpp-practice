@@ -1,6 +1,7 @@
 #include "../main.h"
 
 void pct::credit_card() {
+    std::cout << "P1: Credit Card" << std::endl;
     std::string input;
     std::cin >> input;
     bool isAlternative = false;
